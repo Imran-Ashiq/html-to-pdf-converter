@@ -183,9 +183,9 @@ If you find this project helpful, please consider:
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Muhammad Imran
+- **Email**: Imranbwpk@gmail.com
+- **GitHub**: [@Imran-Ashiq](https://github.com/Imran-Ashiq)
 
 ---
 
