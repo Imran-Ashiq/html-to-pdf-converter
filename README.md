@@ -2,6 +2,16 @@
 
 A professional, feature-rich web application that converts HTML documents to high-quality PDF files with advanced customization options including cropping, scaling, and comprehensive formatting controls.
 
+## 📸 Screenshots
+
+### Main Interface
+![HTML to PDF Converter Interface](https://github.com/user-attachments/assets/4075842d-c0bd-4499-bcce-e4fa76830dd7)
+*Clean, professional interface with Font Awesome icons and tabbed navigation*
+
+### PDF Options & Controls  
+![PDF Customization Options](https://github.com/user-attachments/assets/854300ed-e68b-4616-a425-4dc7cefe6905)
+*Comprehensive PDF customization including cropping, scaling, and formatting controls*
+
 ![HTML to PDF Converter](https://img.shields.io/badge/HTML%20to%20PDF-Converter-blue?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-v22.13.0-green?style=flat-square)
 ![Express](https://img.shields.io/badge/Express-4.x-lightgrey?style=flat-square)
