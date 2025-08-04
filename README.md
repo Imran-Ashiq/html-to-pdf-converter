@@ -41,7 +41,7 @@ A professional, feature-rich web application that converts HTML documents to hig
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/html-to-pdf-converter.git
+   git clone https://github.com/Imran-Ashiq/html-to-pdf-converter.git
    cd html-to-pdf-converter
    ```
 
@@ -193,9 +193,9 @@ If you find this project helpful, please consider:
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Muhammad Imran
+- **Email**: Imranbwpk@gmail.com
+- **GitHub**: [@Imran-Ashiq](https://github.com/Imran-Ashiq)
 
 ---
 
